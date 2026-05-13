@@ -168,9 +168,9 @@ java --module-path /ruta/a/javafx-sdk/lib \
 
 | Integrante                         | Rol / Módulo                                                             |
 |------------------------------------|--------------------------------------------------------------------------|
-| Daniel Sebastián Gómez Villafuerte | Diccionario de datos, modelo relacional, bitácora de base de datos       |
+| Daniel Sebastián Gómez             | Diccionario de datos, modelo relacional, bitácora de base de datos       |
 | Karel González                     | Normalización (3FN), lógica de lectura y carga masiva desde Excel        |
-| JustinSoledispa                    | Arquitectura Java, UI/UX, conexión BD, generación de PDFs, transacciones |
+| Justin Soledispa                   | Arquitectura Java, UI/UX, conexión BD, generación de PDFs, transacciones |
 | Juan Diego Sotomayor               | Modelo relacional, diseño de interfaz, implementación de reportes        |
 
 ---
