@@ -4,16 +4,10 @@
 
 ---
 
-## Descripción
-
-ATRIUM reemplaza la gestión fragmentada en hojas de cálculo por un sistema unificado respaldado por PostgreSQL. Cubre el ciclo de vida completo del emprendimiento —ideación, validación, ejecución y consolidación— ejecutando toda la lógica crítica mediante funciones almacenadas y transacciones ACID, lo que garantiza integridad referencial sin depender de la capa de aplicación.
-
----
-
 ## Flujo del Proyecto
 
 ```
-Excel (.xlsx) → LectorExcel (Apache POI) → JDBC → PostgreSQL (Stored Functions)
+Excel (.xlsx) → LectorExcel → JDBC → PostgreSQL (Stored Functions)
                                                          ↓
 JavaFX (UI) ←→ DAO Layer ←→ JDBC ←→ PostgreSQL → iText PDF Generator
 ```
